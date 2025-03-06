@@ -1,18 +1,15 @@
 [
   {
     "id": "1",
-    "title": "Game Account Name",
-    "price": 299.99,
-    "originalPrice": 499.99,
-    "imageUrl": "https://example.com/image.jpg",
-    "description": "Account description",
+    "title": "Genshin Impact Account",
+    "price": 99.99,
+    "image": "https://images.unsplash.com/photo-1612287230202-1ff1d85d1bdf?q=80&w=1000",
+    "description": "AR 55 Account with Multiple 5-Star Characters",
     "status": "available",
-    "isDiscount": true,
-    "details": {
-      "level": 95,
-      "server": "Server name",
-      "heroes": ["Hero 1", "Hero 2"],
-      "items": ["Item 1", "Item 2"]
+    "gameDetails": {
+      "level": 55,
+      "server": "Asia",
+      "characters": ["Raiden Shogun", "Hu Tao", "Ganyu"]
     }
   }
 ]
